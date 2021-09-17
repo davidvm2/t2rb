@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "416946777861",
+    "project_id": "t2r-poc",
+    "storage_bucket": "t2r-poc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416946777861:android:4da34e17d4e6e239e6d16c",
+        "android_client_info": {
+          "package_name": "com.flutterflow.t2rapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416946777861-k8j748hvskgpje8450f67o5bq2mabfq2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyP4boJq9POg3fQh_ngt54_e_0UH2cm4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416946777861-k8j748hvskgpje8450f67o5bq2mabfq2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
